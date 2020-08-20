@@ -1,0 +1,71 @@
+.divprincipal {
+  background: #ffffff;
+  width: 500px;
+  height: 610px;
+  margin: 0 auto 0 auto;
+}
+
+.logo {
+  margin-left: 55%;
+  margin-top: 5%;
+  width: 50px;
+}
+
+.sair {
+  margin-left: 50%;
+  margin-top: 5%;
+  width: 100px;
+  height: 30px;
+  background: #1da1f2;
+  border-radius: 10px;
+  border-style: unset;
+  text-align: center;
+}
+
+.backgroundinput {
+  margin-left: 150px;
+  margin-top: 30px;
+  background: #e9f1f6;
+  width: 280px;
+  height: 70px;
+  border-radius: 5px;
+}
+
+.input {
+  background: #ffffff;
+  margin-top: 5px;
+  margin-left: 5px;
+  height: 60px;
+  width: 270px;
+  border-radius: 10px;
+  border-width: 1px;
+  border: solid 1px;
+  outline: none;
+  border-color: #dcdcdc;
+}
+
+.button {
+  margin-left: 30%;
+  margin-top: 25px;
+  border-radius: 10px;
+  background: #1da1f2;
+  border-style: unset;
+  height: 40px;
+  width: 280px;
+}
+
+.button:focus {
+  outline: none;
+}
+
+.post {
+  background: #ffffff;
+  width: 400px;
+  height: 100px;
+  margin-top: 10%;
+  margin-left: 20%;
+}
+
+.paragrafo {
+  margin-top: 2%;
+}
